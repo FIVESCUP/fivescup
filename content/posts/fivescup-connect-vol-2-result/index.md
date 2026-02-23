@@ -108,34 +108,3 @@ GuleruuN : クリエイティブ制作
 	  
 	    
 	      		  ![ Nil ]
-		  	        
-
-	      
-	  	    	      
-  
-	    
-	    
-	      Author：Nil            投稿一覧
-          
-	      OWNER          S5Projects Owner
-	    
-	  
-      
-	  	  
-
-	  
-	        
-	  関連する記事	      
-	        
-					      ![ FIVESCUP CONNECT : Vol.2 CSGO ]
-			  		    	        
-	        
-	          [FIVESCUP CONNECT : Vol.2 CSGO](../fivescup-connect-vol-2/)
-	                        2020.06.23
-              	        
-	        7月5日(日)に、FIVESCUP Connect : Vol.2 を開催します。[…]
-
-	      
-	  		      
-	        
-					      <img src="../wp-content/uploads/2019/08/IMG_2337-150x150.jpg" alt="FIVESCUP CONNECT :

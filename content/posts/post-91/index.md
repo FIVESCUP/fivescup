@@ -196,30 +196,3 @@ SOVに賛同し、支援して下さる全ての方々
 	  
 	    
 	      		  ![ Nil ]
-		  	        
-
-	      
-	  	    	      
-  
-	    
-	    
-	      Author：Nil            投稿一覧
-          
-	      OWNER          S5Projects Owner
-	    
-	  
-      
-	  	  
-
-	  
-	        
-	  関連する記事	      
-	        
-			              ![ NO IMAGE ]
-			  		
-		    	        
-	        
-	          [FCBGN S2 第一回戦で発生したトラブルについて](../fcbgn-s2-第一回戦のサーバークラッシュ及びバックアッ/)
-	                        2017.10.09
-              	        
-	        FIVESCUP BEGINNING Season2の第一回戦 “As
