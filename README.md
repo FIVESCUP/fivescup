@@ -45,6 +45,13 @@ hugo --minify
 - `output/` - WordPress エクスポートから生成した Markdown（参照用・Phase 8 で削除予定）
 - `waybackmachine/` - Wayback Machine 取得データ（参照用・Phase 8 で削除予定）
 
+## PR の出し方（移行時）
+
+- 初回コミット（`master`）はエクスポートデータのみ。
+- サイト構成は `feature/gh-pages-site` ブランチで実施。このブランチを push し、**Pull Request** を `master` 向けに作成。
+- マージ後、**Settings → Pages → Source** で **GitHub Actions** を選択すると、次回の push から自動でビルド・デプロイされます。
+- `master` が更新された場合は `git fetch origin master && git rebase origin/master` で追従。`master` への force-push は行わないこと。
+
 ## 移行について
 
 - 元データ: `s5worksfivescup.WordPress.2026-02-23.xml` を wordpress-export-to-markdown で `output/` に展開
