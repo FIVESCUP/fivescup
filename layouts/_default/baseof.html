@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ block "title" . }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  {{ block "head" . }}{{ end }}
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="{{ "/" | relLangURL }}">{{ .Site.Title }}</a>
+      <a href="{{ "/about-fivescup/" | relLangURL }}">FIVESCUPとは？</a>
+      <a href="{{ "/rules/" | relLangURL }}">大会共通ルール</a>
+      <a href="{{ "/posts/" | relLangURL }}">投稿一覧</a>
+    </nav>
+  </header>
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+  <footer>
+    <p>S5Works | FIVESCUP</p>
+  </footer>
+</body>
+</html>
