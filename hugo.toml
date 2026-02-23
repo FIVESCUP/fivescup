@@ -1,0 +1,55 @@
+# Hugo configuration for FIVESCUP GitHub Pages
+# https://gohugo.io/getting-started/configuration/
+
+baseURL = 'https://fivescup.github.io/fivescup/'
+languageCode = 'ja'
+title = 'S5Works | FIVESCUP'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[permalinks]
+  pages = '/:slug/'
+  posts = '/posts/:slug/'
+
+[outputs]
+  home = ['HTML', 'RSS']
+
+# Redirects for legacy WordPress date URLs
+[[redirects]]
+  from = '/2023/03/30/fivescup-challenge-season11/'
+  to = '/posts/fivescup-challenge-season11/'
+  status = 301
+[[redirects]]
+  from = '/2023/04/02/fivescup-challenge-season11-結果/'
+  to = '/posts/fivescup-challenge-season11-結果/'
+  status = 301
+[[redirects]]
+  from = '/2023/04/02/fivescup-challenge-season11-技術検証結果/'
+  to = '/posts/fivescup-challenge-season11-技術検証結果/'
+  status = 301
+[[redirects]]
+  from = '/2023/04/19/fivescup-survive-season1-結果/'
+  to = '/posts/fivescup-survive-season1-結果/'
+  status = 301
+[[redirects]]
+  from = '/2017/07/24/fivescup-open-1/'
+  to = '/posts/fivescup-open-1/'
+  status = 301
+[[redirects]]
+  from = '/2024/06/26/fivescup-experimental-season1/'
+  to = '/posts/fivescup-experimental-season1/'
+  status = 301
+[[redirects]]
+  from = '/2024/06/30/fivescup-experimental-season1-結果/'
+  to = '/posts/fivescup-experimental-season1-結果/'
+  status = 301
+[[redirects]]
+  from = '/2024/07/02/fivescup-experimental-season2/'
+  to = '/posts/fivescup-experimental-season2/'
+  status = 301
+
+[params]
+  description = 'S5Works : CS2/VALORANT Event Organizer'
