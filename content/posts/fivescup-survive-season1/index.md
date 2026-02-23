@@ -29,7 +29,7 @@ coverImage: "image-2.png"
 
 ### 大会進行
 
-**[FIVESCUP Discord](https://web.archive.org/web/20220814042824/https://discord.gg/Uh7qQcp)** にて行います。
+**[FIVESCUP Discord](https://discord.gg/Uh7qQcp)** にて行います。
 
 #### スケジュール
 

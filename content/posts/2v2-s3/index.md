@@ -15,36 +15,26 @@ tags:
 		
 ## FIVESCUP 2v2 RetakeMasters: Season3
 
-| 大会名 |
-| FIVESCUP 2v2 RetakeMasters: Season3 |
-
-| 対戦形式 |
-| グループステージ + プレーオフ |
-
-| フォーマット |
-| Best of 1 (MAP: Mirage) |
-
-| 開催日程 |
-| 2018年 6月 24日 (日) |
-
-| 最大チーム数 |
-| 32 チーム |
-
-| ルール |
-| [Live on Three 大会共通ルール](../../rules/) |
+| 項目 | 内容 |
+| --- | --- |
+| 大会名 | FIVESCUP 2v2 RetakeMasters: Season3 |
+| 対戦形式 | グループステージ + プレーオフ |
+| フォーマット | Best of 1 (MAP: Mirage) |
+| 開催日程 | 2018年 6月 24日 (日) |
+| 最大チーム数 | 32 チーム |
+| ルール | [Live on Three 大会共通ルール](../../rules/) |
 
 ### 【重要】本大会からのルール変更について
 
 	ゲームバランス調整の一環として、以下のように設定の変更を行います。
 
-| 旧 |
+**旧**
 
 - Tチームはラウンド開始時にランダムで投げ物を1つ支給
 
-| 新 |
+**新**
 
 - Tチームは投げ物の支給なし
-
 - **AWPを武器選択リストから削除**
 
 ### 参加登録方法
@@ -89,63 +79,7 @@ https://fivescup.jp/news/recruit-streamer/
 
 #### 運営スタッフ
 
-	
-		
-
-配信
-
-		
-
-	
-
-	
-
-		
-
-実況
-
-		
-
-	
-
-	
-
-		
-
-解説
-
-		
-
-	
-
-| 運営 |
-| [execut1ve](http://twitter.com/execut1ve) |
-
-| メディア |
-| [GuleruuN](https://twitter.com/guleruun_fps) |
-
-      
-	        
-      
-      
-      
-	        
-        
-
-	  
-	  
-
-      
-
-      
-	        
-            
-      
-
-      
-
-	  
-	        
-	  
-	    
-	      		  ![ FlowingSPDG ]
+| 役割 | 担当 |
+| --- | --- |
+| 運営 | [execut1ve](http://twitter.com/execut1ve) |
+| メディア | [GuleruuN](https://twitter.com/guleruun_fps) |

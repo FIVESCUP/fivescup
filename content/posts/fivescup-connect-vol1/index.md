@@ -17,23 +17,14 @@ tags:
 		
 ## FIVESCUP CONNECT : Vol.1
 
-| 大会名 |
-| FIVESCUP CONNECT : Vol.1 |
-
-| 対戦形式 |
-| ランダムmixチーム 総当たり戦 |
-
-| フォーマット |
-| Best of 1 |
-
-| 開催日程 |
-| 2019年 08月 03日 (土) |
-
-| 募集人数 |
-| 25人 |
-
-| ルール |
-| [大会共通ルール](../../) |
+| 項目 | 内容 |
+| --- | --- |
+| 大会名 | FIVESCUP CONNECT : Vol.1 |
+| 対戦形式 | ランダムmixチーム 総当たり戦 |
+| フォーマット | Best of 1 |
+| 開催日程 | 2019年 08月 03日 (土) |
+| 募集人数 | 25人 |
+| ルール | [大会共通ルール](../../) |
 
 ### 注意事項
 
@@ -92,29 +83,3 @@ Website：[https://www.lfs-esportsarena.jp/](https://www.lfs-esportsarena.jp/)
 ### FIVESCUPとは？
 
 **FIVESCUP** は**S5Projects**が運営・主催する **Counter-Strike: Global Offensive** のオンライン大会です。コミュニティを重視した大会を目指しています。
-
-      
-	        
-      
-      
-      
-	        
-        
-
-	  
-	  
-
-      
-
-      
-	        
-            
-      
-
-      
-
-	  
-	        
-	  
-	    
-	      		  ![ Nil ]

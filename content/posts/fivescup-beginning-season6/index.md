@@ -17,26 +17,15 @@ tags:
 		
 ## FIVESCUP BEGINNING: SEASON6
 
-| 大会名 |
-| FIVESCUP BEGINNING: SEASON6 |
-
-| 対戦形式 |
-| トーナメント |
-
-| フォーマット |
-| Best of 1 |
-
-| マッププール |
-| de_dust2, de_inferno, de_mirage, de_overpass, de_nuke, de_train, de_vertigo |
-
-| 開催日程 |
-| 2020年 5月 24日 |
-
-| 最大チーム数 |
-| 32 チーム |
-
-| ルール |
-| [大会共通ルール](../../) |
+| 項目 | 内容 |
+| --- | --- |
+| 大会名 | FIVESCUP BEGINNING: SEASON6 |
+| 対戦形式 | トーナメント |
+| フォーマット | Best of 1 |
+| マッププール | de_dust2, de_inferno, de_mirage, de_overpass, de_nuke, de_train, de_vertigo |
+| 開催日程 | 2020年 5月 24日 |
+| 最大チーム数 | 32 チーム |
+| ルール | [大会共通ルール](../../) |
 
 ### 賞品
 
@@ -56,40 +45,24 @@ Project GIARSの使い方は **[こちら](../giars-howto/)**
 
 スケジュールは予期せず変更される場合があります。
 
-| 13:30 |
-| チェックイン開始 |
-
-| 14:00 |
-| チェックイン締切 |
-
-| 14:10 |
-| トーナメント発表 |
-
-| 14:15 |
-| トーナメント 第1試合 |
-
-| 15:00 |
-| トーナメント 第2試合 |
-
-| 16:00 |
-| トーナメント 第3試合 |
-
-| 17:00 |
-| トーナメント 第4試合 |
-
-| 18:00 |
-| 準決勝 |
-
-| 19:00 |
-| 決勝 |
+| 時刻 | 内容 |
+| --- | --- |
+| 13:30 | チェックイン開始 |
+| 14:00 | チェックイン締切 |
+| 14:10 | トーナメント発表 |
+| 14:15 | トーナメント 第1試合 |
+| 15:00 | トーナメント 第2試合 |
+| 16:00 | トーナメント 第3試合 |
+| 17:00 | トーナメント 第4試合 |
+| 18:00 | 準決勝 |
+| 19:00 | 決勝 |
 
 ### ストリーミング配信
 
-| 実況 |
-| [Violet](https://twitter.com/7144violet) |
-
-| 解説 |
-| [ChiaraJ](https://twitter.com/chiarajcsgo) |
+| 役割 | 担当 |
+| --- | --- |
+| 実況 | [Violet](https://twitter.com/7144violet) |
+| 解説 | [ChiaraJ](https://twitter.com/chiarajcsgo) |
 
 (埋め込み)S5Projectsのライブビデオをwww.twitch.tvから視聴する
 

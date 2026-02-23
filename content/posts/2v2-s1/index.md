@@ -15,23 +15,14 @@ tags:
 		
 ## FIVESCUP 2v2 RetakeMasters: Season1
 
-| 大会名 |
-| FIVESCUP 2v2 Retake: Season1 |
-
-| 対戦形式 |
-| グループステージ + プレーオフ |
-
-| フォーマット |
-| Best of 1 (MAP: Inferno) |
-
-| 開催日程 |
-| 2018年 4月 21日 (土) |
-
-| 最大チーム数 |
-| 32 チーム |
-
-| ルール |
-| [Live on Three 大会共通ルール](../../rules/) |
+| 項目 | 内容 |
+| --- | --- |
+| 大会名 | FIVESCUP 2v2 Retake: Season1 |
+| 対戦形式 | グループステージ + プレーオフ |
+| フォーマット | Best of 1 (MAP: Inferno) |
+| 開催日程 | 2018年 4月 21日 (土) |
+| 最大チーム数 | 32 チーム |
+| ルール | [Live on Three 大会共通ルール](../../rules/) |
 
 ### 賞品
 
@@ -83,43 +74,10 @@ tags:
 
 #### 運営スタッフ
 
-| 運営 |
-| [execut1ve](http://twitter.com/execut1ve) |
-
-| 配信 |
-| [Flowing](http://twitter.com/FlowingCS) |
-
-| 実況 |
-| [ここあ](https://twitter.com/HoT_Chocol4tE) |
-
-| 解説 |
-| [oitaN](http://twitter.com/oitaN_JP) |
-
-| メディア |
-| [GuleruuN](https://twitter.com/guleruun_fps) |
-
-      
-	        
-      
-      
-      
-	        
-        
-
-	  
-	  
-
-      
-
-      
-	        
-            
-      
-
-      
-
-	  
-	        
-	  
-	    
-	      		  ![ FlowingSPDG ]
+| 役割 | 担当 |
+| --- | --- |
+| 運営 | [execut1ve](http://twitter.com/execut1ve) |
+| 配信 | [Flowing](http://twitter.com/FlowingCS) |
+| 実況 | [ここあ](https://twitter.com/HoT_Chocol4tE) |
+| 解説 | [oitaN](http://twitter.com/oitaN_JP) |
+| メディア | [GuleruuN](https://twitter.com/guleruun_fps) |

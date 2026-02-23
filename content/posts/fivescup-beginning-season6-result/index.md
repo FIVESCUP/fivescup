@@ -17,11 +17,10 @@ tags:
 
 ### 結果
 
-| 優勝 |
-| BBD Ignis |
-
-| 準優勝 |
-| TeamDWFN |
+| 順位 | チーム名 |
+| --- | --- |
+| 優勝 | BBD Ignis |
+| 準優勝 | TeamDWFN |
 
 #### 決勝戦
 

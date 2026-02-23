@@ -17,11 +17,10 @@ tags:
 
 ### 結果
 
-| 優勝 |
-| Ignis |
-
-| 準優勝 |
-| ドスコイJAPAN |
+| 順位 | チーム名 |
+| --- | --- |
+| 優勝 | Ignis |
+| 準優勝 | ドスコイJAPAN |
 
 #### 決勝戦
 
@@ -105,37 +104,8 @@ tags:
 
 #### 運営スタッフ
 
-| 運営 |
-| [execut1ve](http://twitter.com/execut1ve) |
-
-| 配信・実況 |
-| [chiaraJ](https://twitter.com/chiaraJcsgo) |
-
-| メディア |
-| [GuleruuN](https://twitter.com/guleruun_fps) |
-
-      
-	        
-      
-      
-      
-	        
-        
-
-	  
-	  
-
-      
-
-      
-	        
-            
-      
-
-      
-
-	  
-	        
-	  
-	    
-	      		  ![ Flow ]
+| 役割 | 担当 |
+| --- | --- |
+| 運営 | [execut1ve](http://twitter.com/execut1ve) |
+| 配信・実況 | [chiaraJ](https://twitter.com/chiaraJcsgo) |
+| メディア | [GuleruuN](https://twitter.com/guleruun_fps) |

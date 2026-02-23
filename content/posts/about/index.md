@@ -178,31 +178,28 @@ Team#8 : 9pt,Team#7 : 4pt,,Team#6 : 4pt,Team#5 : 0pt
 
 ![  ]
 
-| 優勝 |
-| Ignis (賞品: 1,000円相当の武器スキン) |
-
-| 準優勝 |
-| 生まれたての小さいおじさんたち |
+| 順位 | チーム名 |
+| --- | --- |
+| 優勝 | Ignis (賞品: 1,000円相当の武器スキン) |
+| 準優勝 | 生まれたての小さいおじさんたち |
 
 ### 2018.04.28 “[FIVESCUP Challenge Season2](../../)
 
 ![  ]
 
-| 優勝 |
-| -Noir et blanc (賞品: 1,000円相当の武器スキン + 鍵5個) |
-
-| 準優勝 |
-| Ignis |
+| 順位 | チーム名 |
+| --- | --- |
+| 優勝 | -Noir et blanc (賞品: 1,000円相当の武器スキン + 鍵5個) |
+| 準優勝 | Ignis |
 
 ### 2018.06.09 “[FIVESCUP 2v2RetakeMasters Season2](../2v2-s2-result/)
 
 ![  ]
 
-| 優勝 |
-| Ignis |
-
-| 準優勝 |
-| ドスコイJAPAN |
+| 順位 | チーム名 |
+| --- | --- |
+| 優勝 | Ignis |
+| 準優勝 | ドスコイJAPAN |
 
 ### 2018.06.24 “[FIVESCUP 2v2RetakeMasters Season3](../2v2-s3/)
 
@@ -212,21 +209,19 @@ Team#8 : 9pt,Team#7 : 4pt,,Team#6 : 4pt,Team#5 : 0pt
 
 ![  ]
 
-| 優勝 |
-| team baiter |
-
-| 準優勝 |
-| Moai meister |
+| 順位 | チーム名 |
+| --- | --- |
+| 優勝 | team baiter |
+| 準優勝 | Moai meister |
 
 ### 2019.03.21 “[FIVESCUP Beginning Season4](../post-2579/)
 
 ![  ]
 
-| 優勝 |
-| Ignis |
-
-| 準優勝 |
-| SCARZ |
+| 順位 | チーム名 |
+| --- | --- |
+| 優勝 | Ignis |
+| 準優勝 | SCARZ |
 
 ### 2019.08.03 “[FIVESCUP CONNECT Vol.1](../fivescup-connect-vol1/)
 

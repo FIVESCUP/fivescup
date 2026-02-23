@@ -13,14 +13,11 @@ tags:
 		
 ## FIVESCUP Movie Contest: Vol.1
 
-| イベント名 |
-| FIVESCUP Movie Contest: Vol.1 |
-
-| 概要 |
-| FIVESCUP Challenge: Season2 の試合demoを用いた動画コンテスト |
-
-| 開催日程 |
-| 2018年 4月 28日 (土) ~ 5月 28日(月) |
+| 項目 | 内容 |
+| --- | --- |
+| イベント名 | FIVESCUP Movie Contest: Vol.1 |
+| 概要 | FIVESCUP Challenge: Season2 の試合demoを用いた動画コンテスト |
+| 開催日程 | 2018年 4月 28日 (土) ~ 5月 28日(月) |
 
 ### 賞品
 
@@ -64,36 +61,10 @@ tags:
 
 ### 素材
 
-	[FIVESCUP Challenge Season2 demo](http://demos.lo3.live/demos/event/FIVES_CUP_CHALLENGE_Season2) [キャスター音声付動画](https://youtu.be/RwyOP4CNqbU) [大会ロゴ](https://drive.google.com/open?id=1bNfOoJKHyjXxzCgAAIF2xYwyRcz0jzZy)
+	[FIVESCUP Challenge Season2 demo](http://demos.lo3.live/demos/event/FIVES_CUP_CHALLENGE_Season2) [キャスター音声付動画](https://youtu.be/RwyOP4CNqbU) [大会ロゴ](images/FIVESCUP_logo.png)
 
 ### FIVESCUPとは？
 
 	**FIVESCUP** は、[Live on Three](https://lo3.jp) が主催する **Counter-Strike: Global Offensive** のオンライン大会です。国内競技シーン発展のため、誰でも気軽にCS:GOの競技的側面を楽しんでいただけるような大会・イベントを企画運営しています。
 
 	[過去に行った大会](../about/)
-
-      
-	        
-      
-      
-      
-	        
-        
-
-	  
-	  
-
-      
-
-      
-	        
-            
-      
-
-      
-
-	  
-	        
-	  
-	    
-	      		  ![ Flow ]

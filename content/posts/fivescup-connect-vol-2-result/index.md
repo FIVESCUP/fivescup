@@ -12,29 +12,16 @@ tags:
 
 **FIVESCUP CONNECT** は、オフラインで行われるユーザー同士の交流を目的としたイベントです。
 
-| 大会名 |
-| FIVESCUP CONNECT : Vol.2 |
-
-| 対戦形式 |
-| ランダムmixチーム 交流会 |
-
-| フォーマット |
-| Best of 1 |
-
-| 開催日程 |
-| 2020年 07月 05日 (日) |
-
-| 募集人数 |
-| 20人 |
-
-| 参加人数 |
-| 18人 |
-
-| ルール |
-| [大会共通ルール](../../) |
-
-| 参加者 |
-| ChiaraJ / Athan / 666 / Juice / Ray / 越谷arT / Kayie / Bucci /Ark / SPaDe / onichin / Hib1no / tyanri / Eriii / kig / MamE / SepiaMars / kaimu / FlowingSPDG |
+| 項目 | 内容 |
+| --- | --- |
+| 大会名 | FIVESCUP CONNECT : Vol.2 |
+| 対戦形式 | ランダムmixチーム 交流会 |
+| フォーマット | Best of 1 |
+| 開催日程 | 2020年 07月 05日 (日) |
+| 募集人数 | 20人 |
+| 参加人数 | 18人 |
+| ルール | [大会共通ルール](../../) |
+| 参加者 | ChiaraJ / Athan / 666 / Juice / Ray / 越谷arT / Kayie / Bucci / Ark / SPaDe / onichin / Hib1no / tyanri / Eriii / kig / MamE / SepiaMars / kaimu / FlowingSPDG |
 
 		
 ### 結果

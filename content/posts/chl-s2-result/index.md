@@ -17,11 +17,10 @@ tags:
 
 ### 結果
 
-| 優勝 |
-| -Noir et blanc (賞品: 1,000円相当の武器スキン + 鍵5個) |
-
-| 準優勝 |
-| Ignis |
+| 順位 | チーム名 |
+| --- | --- |
+| 優勝 | -Noir et blanc (賞品: 1,000円相当の武器スキン + 鍵5個) |
+| 準優勝 | Ignis |
 
 #### 決勝戦
 
@@ -57,37 +56,8 @@ tags:
 
 #### 運営スタッフ
 
-| 運営 |
-| [execut1ve](http://twitter.com/execut1ve) |
-
-| 配信 |
-| [Flowing](http://twitter.com/FlowingCS) |
-
-| メディア |
-| [GuleruuN](https://twitter.com/guleruun_fps) |
-
-      
-	        
-      
-      
-      
-	        
-        
-
-	  
-	  
-
-      
-
-      
-	        
-            
-      
-
-      
-
-	  
-	        
-	  
-	    
-	      		  ![ Nil ]
+| 役割 | 担当 |
+| --- | --- |
+| 運営 | [execut1ve](http://twitter.com/execut1ve) |
+| 配信 | [Flowing](http://twitter.com/FlowingCS) |
+| メディア | [GuleruuN](https://twitter.com/guleruun_fps) |

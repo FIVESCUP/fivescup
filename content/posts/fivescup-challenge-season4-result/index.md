@@ -17,11 +17,10 @@ tags:
 
 ### 結果
 
-| 優勝 |
-| JUST4FUN |
-
-| 準優勝 |
-| Escape from Cache |
+| 順位 | チーム名 |
+| --- | --- |
+| 優勝 | JUST4FUN |
+| 準優勝 | Escape from Cache |
 
 #### 決勝戦
 
