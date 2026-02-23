@@ -1,0 +1,170 @@
+---
+title: "寄付リスト"
+slug: "寄付リスト"
+date: 2019-01-01
+categories:
+  - "news"
+tags:
+  - "event"
+---
+
+SOVが管理するサーバーの利用料金・Donateで得たアイテム・通貨は、
+
+SOVのイベントの開催経費・景品　サーバーパーツ代等の運営資金に充てられます。
+
+プリペイドコードの寄付はTwitter ![  ][@SOLIDUSFIVE](http://twitter.com/solidusfive)のDMまで
+
+ゲーム内スキンは ![  ]Steamトレードリンクまでお願いします。
+
+~9999円:当ページ追加
+
+10000~29999円:当ページ追加+大会時スポンサーリスト追加(アイコン,名前,ひとことの表示)
+
+30000~ : 当ページ追加+大会時スポンサーリスト追加(アイコン,名前,ひとことの表示)+”Sponsors枠(ホームページ左下)”追加
+
+ 
+
+ 
+
+2017/08/08 ExtEOi様よりゲーム内スキン寄付 +4.41$
+
+2017/08/10 ExtEOi様よりゲーム内スキン寄付 +8.16$
+
+2017/08/13 kingyo1207様より ゲーム内スキン寄付 +5.49$
+
+2017/08/13 mokotic fermonster様より ゲーム内スキン寄付 +7000円 (大会賞品として活用)
+
+2017/08/23 akatoki 様よりWebMoney寄付 +2500円
+
+2017/08/30 pyonpyon 様よりゲーム内スキン寄付  +1000円
+
+2017/09/01 Milvus 様よりWebMoney寄付 +1000円
+
+2017/09/03 みかお 様よりプリペイドコード寄付 +5000円
+
+2017/09/25 TakYaJPN 様よりプリペイドコード寄付 +10000円(大会賞金として活用)
+
+2017/09/29 SCARZ 様よりプリペイドコード寄付 +2000円
+
+2017/09/30 SCARZ 様よりプリペイドコード寄付 +15000円 (大会賞金として活用)
+
+2017/10/02 Rikukou 様よりPCパーツ寄付
+
+2017/10/07 N41Ru 様よりゲーム内スキン寄付 +3000円
+
+2017/10/15 ノイカ 様よりパーツ寄付 (横浜支部として稼働中)
+
+2017/10/26 ZOWIE 様より大会賞品寄付(好きなマウス5個)
+
+2017/10/29 catsoda 様よりプリペイドコード寄付 +15000円
+
+2017/02/11 kattono 様よりゲーム内スキン寄付 +170$
+
+2018/03/10 catsoda 様よりプリペイドコード寄付 +15000円
+
+      
+	        
+       
+ 
+      
+    
+    
+    
+	    
+          
+	  
+	          
+
+	 FIVESCUP Twitter
+
+カテゴリー		
+
+
+
+[投稿一覧](../../posts/)
+
+
+
+
+
+[投稿一覧](../../posts/)
+
+
+
+
+
+[投稿一覧](../../posts/)
+
+
+
+
+
+[投稿一覧](../../posts/)
+
+
+
+
+
+[投稿一覧](../../posts/)
+
+
+
+
+
+[投稿一覧](../../posts/)
+
+
+
+
+
+[投稿一覧](../../posts/)
+
+
+
+
+
+[投稿一覧](../../posts/)
+
+
+
+
+
+[投稿一覧](../../posts/)
+
+
+
+
+
+      Back to Top
+      
+                  
+      
+        
+                      © Copyright 2019 S5Projects.          	      
+		    S5Projects | FIVESCUP by FIT-Web Create. Powered by WordPress.
+          
+        
+      
+                      
+      
+
+         
+  
+  
+
+      
+/*  */
+
+function toggle__search(){
+	extra__search.className="l-extra";
+	extra__menu.className="l-extraNone";
+	menuNavi__search.className = "menuNavi__link menuNavi__link-current icon-search ";
+	menuNavi__menu.className = "menuNavi__link icon-menu";
+}
+
+function toggle__menu(){
+	extra__search.className="l-extraNone";
+	extra__menu.className="l-extra";
+	menuNavi__search.className = "menuNavi__link icon-search";
+	menuNavi__menu.className = "menuNavi__link menuNavi__link-current icon-menu";
+}

@@ -1,5 +1,6 @@
 ---
 title: "FIVESCUP OPEN #1"
+slug: "fivescup-open-1"
 date: 2017-07-24
 categories: 
   - "open"

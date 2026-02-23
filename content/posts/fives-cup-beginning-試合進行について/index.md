@@ -1,0 +1,172 @@
+---
+title: "FIVES CUP BEGINNING 試合進行について"
+slug: "fives-cup-beginning-試合進行について"
+date: 2017-08-28
+categories:
+  - "news"
+tags:
+  - "event"
+---
+
+## 大会時の進行について
+
+運営がサーバーへの接続コマンドを伝達しますので、そのサーバーへ入り指定されたチームに参加して下さい。
+
+全員が接続した事を確認したら、各チームの代表者がチャットで!veto と発言し、マップのbanを開始して下さい。
+
+最後に選ばれたマップが試合マップとなります。
+
+![  ] ![  ]
+
+ 
+
+決定されたマップに変更されます。vetoを実行した時と同じチームに参加して下さい。
+
+**開始前に”pov”とコンソールに入力し、返されたコマンドを用いてdemoのrecordを行ってください。**
+
+![  ]
+
+双方用意が出来た事を確認したら!knifeと入力し、ナイフ戦を開始して下さい。
+
+ナイフ戦に勝利したチームが!stay 又は!switch と発言し、陣営を決定して下さい。
+
+3回のリスタートの後に試合が始まります。
+
+ 
+
+試合終了後、**勝利したチームが**スコアボードのスクリーンショットをF12キーを使い撮影し、Discordに提出して下さい。
+
+ 
+
+## ポーズ使用について
+
+今大会では、PC等機材に関するトラブルの為に取得出来る「**Technical Pause**」と、
+
+戦略会議の為に取得出来る合計2分間の「**Tactical Timeout**」を使用する事が出来ます。
+
+ポーズを使用するには、freezetime中(ラウンド開始前)にチャット欄に「!pause」を打ち込み送信して下さい。以下のメニューが表示されます
+
+![  ]
+
+取得したいタイムアウトを選択し、チャットを使用してポーズの理由を相手に明確に伝えて下さい。
+
+ 
+
+「Tactical Timeout」を選択すると、30秒間のマッチポーズが適用され、その間は自由に作戦会議を行う事が出来ます。
+
+1回につき30秒ですので、追加で取得したい際はその度に!pauseより追加して下さい。合計2分間使用可能です。
+
+ 
+
+「Technical Pause」を選択すると、時間制限の存在しないマッチポーズが適用されます。
+
+メンバーの切断や、PCの不調等正常にプレイが不可能な時のみ取得して下さい。
+
+機材のトラブルが解消され、正常なプレイが可能になった際はポーズを解除する旨を相手に伝え、許可を取ってから「!unpause」と発言しポーズの解除を行って下さい。
+
+ 
+
+      
+	        
+      
+      
+      
+	        
+        
+
+	  
+	  
+
+      
+
+      
+	        
+            
+      
+
+      
+
+	  
+	        
+	  
+	    
+	      		  ![ Nil ]
+		  	        
+
+	      
+	  	    	      
+  
+	    
+	    
+	      Author：Nil            投稿一覧
+          
+	      OWNER          S5Projects Owner
+	    
+	  
+      
+	  	  
+
+	  
+	        
+	  関連する記事	      
+	        
+					      ![ Re:Union ]
+			  		    	        
+	        
+	          [Re:Union](../reunion/)
+	                        2019.08.18
+              	        
+	        S5ProjectsはLive on Three、Azplex Server、Mohimohi Server、Atropos Server、Eru S[…]
+
+	      
+	  		      
+	        
+					      ![ 新体制のお知らせ ]
+			  		    	        
+	        
+	          [新体制のお知らせ](../left-lo3/)
+	                        2018.11.02
+              	        
+	        "FIVESCUP"はLive on Threeから離脱・独立したことをお知らせいたします。[…]
+
+	      
+	  		      
+	        
+					      ![ FIVESCUP Webサイトリニューアルと新体制のお知らせ ]
+			  		    	        
+	        
+	          [FIVESCUP Webサイトリニューアルと新体制のお知らせ](../rebrand/)
+	                        2018.04.13
+              	        
+	        この度、FIVESCUP のWebサイトリニューアルを行いました。それに伴い、運営体制を再構築しましたので、ご報告させていただきます。 目次 1. 「[…]
+
+	      
+	  	
+	        
+	  	  
+
+	  
+	        
+                    
+                コメント（1,328件）
+        
+		  		
+				
+				
+			![  ]			[dioalf](https://hydroxyzineotc.com) より:		
+		
+		[
+			2022年5月28日 16:32				](#comment-125/index.html)
+						
+
+		how to get hydroxychloroquine online [where can i get hydroxychloroquine online](https://hydroxyzineotc.com/) hydroxychloroquine generic names
+
+		返信
+				
+				
+		
+				
+				
+			![  ]			[Keurdo](https://viaglsildf.com/) より:		
+		
+		<a h

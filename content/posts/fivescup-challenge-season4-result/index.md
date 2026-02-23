@@ -1,0 +1,223 @@
+---
+title: "FIVESCUP CHALLENGE Season4 : 結果"
+slug: "fivescup-challenge-season4-result"
+date: 2020-02-08
+categories:
+  - "news"
+tags:
+  - "event"
+---
+
+**FIVESCUP CHALLENGE: Season4** を2月8日に開催し、**JUST4FUN** が優勝となりました。
+
+		
+## FIVESCUP CHALLENGE: Season4
+
+**FIVESCUP Challenge** は、7つある競技マップを1つに絞り、そのマップの習熟度を競うことをコンセプトとした、5v5の大会です。
+
+### 結果
+
+| 優勝 |
+| JUST4FUN |
+
+| 準優勝 |
+| Escape from Cache |
+
+#### 決勝戦
+
+- JUST4FUN VS Escape from Cache
+
+#### 参加チーム
+
+- **JUST4FUN **
+
+- **Escape from Cache**
+
+- **お野菜一家**
+
+### FIVESCUPとは？
+
+**FIVESCUP** はS5Projects が運営・主催する **Counter-Strike: Global Offensive** のオンライン大会です。コミュニティを重視した大会を目指しています。
+
+[過去に行った大会](../about/)
+
+      
+	        
+      
+      
+      
+	        
+        
+
+	  
+	  
+
+      
+
+      
+	        
+            
+      
+
+      
+
+	  
+	        
+	  
+	    
+	      		  ![ Nil ]
+		  	        
+
+	      
+	  	    	      
+  
+	    
+	    
+	      Author：Nil            投稿一覧
+          
+	      OWNER          S5Projects Owner
+	    
+	  
+      
+	  	  
+
+	  
+	        
+	  関連する記事	      
+	        
+					      ![ FIVESCUP Challenge: Season2 ]
+			  		    	        
+	        
+	          [FIVESCUP Challenge: Season2](../chl-s2/)
+	                        2018.04.21
+              	        
+	        4月28日(土)に、FIVESCUP Challenge: Season2 を開催します。 FIVESCUP Challenge は、7つある競技マッ[…]
+
+	      
+	  		      
+	        
+					      ![ FIVESCUP Challenge: Season3 結果 ]
+			  		    	        
+	        
+	          [FIVESCUP Challenge: Season3 結果](../fivescup-challenge-season3/)
+	                        2018.12.17
+              	        
+	        FIVESCUP Challenge: Season3 を12月16日に開催し、team baiter が優勝となりました。[…]
+
+	      
+	  		      
+	        
+					      ![ FIVESCUP Challenge Season1 大会結果 ]
+			  		    	        
+	        
+	          [FIVESCUP Challenge Season1 大会結果](../fivescup-challenge-season1-大会結果/)
+	                        2018.03.10
+              	        
+	        概要:”FIVESCUP Challenge Season1 ” タイムテーブル:”タイムテーブル” 大会ルール:”大会共通ルール” 1st : Ig[…]
+
+	      
+	  	
+	        
+	  	  
+
+	  
+	        
+                    
+	  	  
+
+	  
+	        
+        	  
+	        
+      
+    
+    
+
+    
+	    
+          
+	  
+	          
+
+	 FIVESCUP Twitter
+
+カテゴリー		
+
+
+
+[投稿一覧](../../posts/)
+
+
+
+
+
+[投稿一覧](../../posts/)
+
+
+
+
+
+[投稿一覧](../../posts/)
+
+
+
+
+
+[投稿一覧](../../posts/)
+
+
+
+
+
+[投稿一覧](../../posts/)
+
+
+
+
+
+[投稿一覧](../../posts/)
+
+
+
+
+
+[投稿一覧](../../posts/)
+
+
+
+
+
+[投稿一覧](../../posts/)
+
+
+
+
+
+[投稿一覧](../../posts/)
+
+
+
+
+
+[投稿一覧](../../posts/)
+
+
+
+		
+
+				  	  
+	      
+    
+
+    
+	    
+    
+  
+  
+  
+    
+
+    
+    
+      
+        CHALLENGEカテゴリの最新記事

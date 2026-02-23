@@ -1,7 +1,7 @@
 # Hugo configuration for FIVESCUP GitHub Pages
 # https://gohugo.io/getting-started/configuration/
 
-baseURL = 'https://fivescup.github.io/fivescup/'
+baseURL = 'https://fivescup.github.io/'
 languageCode = 'ja'
 title = 'S5Works | FIVESCUP'
 
@@ -49,6 +49,25 @@ title = 'S5Works | FIVESCUP'
 [[redirects]]
   from = '/2024/07/02/fivescup-experimental-season2/'
   to = '/posts/fivescup-experimental-season2/'
+  status = 301
+
+# Legacy WordPress slug URLs (wayback 移行分)
+[[redirects]]
+  from = '/donation/'
+  to = '/posts/donation/'
+  status = 301
+[[redirects]]
+  from = '/giars-howto/'
+  to = '/posts/giars-howto/'
+  status = 301
+[[redirects]]
+  from = '/page-213/'
+  to = '/posts/page-213/'
+  status = 301
+# Legacy wayback: 旧 WordPress スラッグ fives-cup-open-1 → 正規 fivescup-open-1
+[[redirects]]
+  from = '/posts/fives-cup-open-1/'
+  to = '/posts/fivescup-open-1/'
   status = 301
 
 [params]

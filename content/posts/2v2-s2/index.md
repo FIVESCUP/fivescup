@@ -1,0 +1,212 @@
+---
+title: "FIVESCUP 2v2 RetakeMasters: Season2"
+slug: "2v2-s2"
+date: 2018-06-01
+categories:
+  - "news"
+tags:
+  - "event"
+---
+
+6月9日(土)に、**FIVESCUP 2v2 RetakeMasters: Season2** を開催します。
+
+	**FIVESCUP 2v2 RetakeMasters** は、爆弾設置状態から開始する「リテイクMOD」を使用し、CS:GOの醍醐味の1つである少人数戦の連携を気軽に楽しむことをコンセプトとした、2v2の大会です。
+
+		
+## FIVESCUP 2v2 RetakeMasters: Season2
+
+| 大会名 |
+| FIVESCUP 2v2 RetakeMasters: Season2 |
+
+| 対戦形式 |
+| グループステージ + プレーオフ |
+
+| フォーマット |
+| Best of 1 (MAP: Cache) |
+
+| 開催日程 |
+| 2018年 6月 9日 (土) |
+
+| 最大チーム数 |
+| 32 チーム |
+
+| ルール |
+| [Live on Three 大会共通ルール](../../rules/) |
+
+### 【重要】本大会からのルール変更について
+
+	ゲームバランス調整の一環として、以下のようにラウンド数の変更を行います。
+
+| 旧 |
+| 15ラウンドハーフ 16ラウンド先取 (OT 3ラウンドハーフ 4ラウンド先取) |
+
+| 新 |
+| 9ラウンドハーフ 10ラウンド先取 (OT 2ラウンドハーフ 3ラウンド先取) |
+
+#### 6月6日(木) 追記
+
+	ゲームバランス調整の一環として、以下のように設定の変更を行います。
+
+| 旧 |
+
+- 両チームともにラウンド開始時にベストのみ支給(ヘルメット無し)
+
+- 両チームともにラウンド開始時にランダムで投げ物を1つ支給
+
+| 新 |
+
+- 両チームともにラウンド開始時にベスト＋ヘルメットを支給
+
+- CTチームのみラウンド開始時にFlashbang 1つを必ず支給＋ランダムで投げ物を1つ支給
+
+- (Tチームは従来通りランダムで投げ物を1つのみ支給)
+
+### 参加登録方法
+
+	Battlefyにて行います。参加時のフォームに **SteamID64** を入力するのをお忘れないようお願いします。
+
+	SteamID64 の確認方法は [こちら](../steamid/)
+
+(埋め込み)
+
+### 大会進行
+
+	[Live on Three Discord](https://discord.gg/x8cNueE) にて行います。
+
+#### スケジュール
+
+スケジュールは予期せず変更される場合があります。
+
+- 17:45 … チェックイン開始
+
+- 18:45 … チェックイン締切
+
+- 19:00 … グループ分け発表
+
+- 19:20 … グループステージ 第1試合
+
+- 19:40 … グループステージ 第2試合
+
+- 20:00 … グループステージ 第3試合
+
+- 20:40 … プレーオフ 準々決勝
+
+- 21:00 … プレーオフ 準決勝
+
+- 21:20 … プレーオフ 決勝
+
+### ストリーミング配信
+
+	本大会より、ストリーミング配信者の公募を行っております。
+
+https://fivescup.jp/news/recruit-streamer/
+
+### FIVESCUPとは？
+
+	**FIVESCUP** は、[Live on Three](https://lo3.jp) が主催する **Counter-Strike: Global Offensive** のオンライン大会です。国内競技シーン発展のため、誰でも気軽にCS:GOの競技的側面を楽しんでいただけるような大会・イベントを企画運営しています。
+
+	[過去に行った大会](../about/)
+
+#### 運営スタッフ
+
+	
+		
+
+配信
+
+		
+
+	
+
+	
+
+		
+
+実況
+
+		
+
+	
+
+	
+
+		
+
+解説
+
+		
+
+	
+
+| 運営 |
+| [execut1ve](http://twitter.com/execut1ve) |
+
+| メディア |
+| [GuleruuN](https://twitter.com/guleruun_fps) |
+
+      
+	        
+      
+      
+      
+	        
+        
+
+	  
+	  
+
+      
+
+      
+	        
+            
+      
+
+      
+
+	  
+	        
+	  
+	    
+	      		  ![ Flow ]
+		  	        
+
+	      
+	  	    	      
+  
+	    
+	    
+	      Author：Flow            投稿一覧
+          
+	                配信・サーバー担当兼オーナー
+	    
+	  
+      
+	  	  
+
+	  
+	        
+	  関連する記事	      
+	        
+					      ![ FIVESCUP 2v2 RetakeMasters: Season1 ]
+			  		    	        
+	        
+	          [FIVESCUP 2v2 RetakeMasters: Season1](../2v2-s1/)
+	                        2018.04.13
+              	        
+	        4月21日(土)に、FIVESCUP 2v2 RetakeMasters: Season1 を開催します。 FIVESCUP 2v2 RetakeMa[…]
+
+	      
+	  		      
+	        
+					      ![ FIVESCUP 2v2 RetakeMasters: Season1 結果 ]
+			  		    	        
+	        
+	          [FIVESCUP 2v2 RetakeMasters: Season1 結果](../2v2-s1/)
+	                        2018.04.21
+              	        
+	        FIVESCUP 2v2 RetakeMasters: Season1 を4月21日(土)に開催し、Ignis が優勝となりました。 FIVESCUP[…]
+
+	      
+	  		      
+	        <a class="related__imgLink" href="../2v2-s3/index.html" title="FIVESCUP 2v2 Retake

@@ -3,8 +3,8 @@
 S5Works が運営する CS2/VALORANT イベント「FIVESCUP」のサイトです。  
 WordPress から GitHub Pages（Hugo）へ移行しました。
 
-- **サイト**: https://fivescup.github.io/fivescup/
-- **リポジトリ**: https://github.com/FIVESCUP/fivescup
+- **サイト**: https://fivescup.github.io/
+- **リポジトリ**: https://github.com/FIVESCUP/fivescup.github.io
 
 ## 開発
 
