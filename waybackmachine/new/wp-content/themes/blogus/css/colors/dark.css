@@ -1,0 +1,47 @@
+html[data-theme='dark'] {
+  --head-color: #fff;
+  --stext-color: #fff;
+  --text-color: #fff;
+  --wtext-color: #000;
+  --bg-color: #000;
+  --box-color: #222;
+  --border-color: #333;
+  --wrap-color: #000;
+  --bxsh: 0 1px 3px rgba(185, 185, 185, 0.15);
+  --bxshover: 0 4px 60px 0 rgba(185, 185, 185, 0.2);
+}
+
+.wrapper {
+    background-color: var(--wrap-color);
+}
+
+.site-title a, .site-description {
+    color: var(--stext-color);
+}
+.offcbtn {
+    color: var(--head-color);
+}
+
+.bs-head-detail {
+    background: var(--secondary-color);
+} 
+
+.bs-blog-post .small {
+    color: var(--text-color);
+}
+.bs-blog-post.two .small {
+    background: var(--bg-color);
+    color: var(--text-color);
+}
+.bs-blog-meta, .bs-blog-meta a{
+    color: var(--text-color);
+}
+.bs-sidebar .bs-widget {
+    background: var(--box-color);
+}
+.bs-card-box {
+    background: var(--box-color);
+}
+.bs-blog-thumb .bs-blog-inner, .bs-blog-thumb .bs-blog-inner h4, .bs-blog-thumb .bs-blog-inner h4 a, .bs-blog-thumb .bs-blog-inner .bs-blog-meta a {
+    color: #000;
+}

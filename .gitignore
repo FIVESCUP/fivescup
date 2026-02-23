@@ -1,0 +1,22 @@
+# Dependencies and environment
+node_modules/
+.env
+.env.*
+!.env.example
+
+# OS and editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Hugo
+public/
+resources/_gen/
+.hugo_build.lock
+
+# IDE
+.idea/
+.vscode/
+*.sublime-*
