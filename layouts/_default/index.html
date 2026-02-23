@@ -1,7 +1,17 @@
 {{ define "title" }}{{ .Site.Title }}{{ end }}
 {{ define "main" }}
-<article>
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
-</article>
+<div class="hero">
+  <h1 class="hero__title">{{ .Title }}</h1>
+  <p class="hero__desc">FIVESCUP は S5 Works が運営・主催する Counter-Strike シリーズのオンライン大会です。</p>
+</div>
+{{ with .Content }}
+<div class="content content--intro">
+  {{ . }}
+</div>
+{{ end }}
+<ul class="link-cards" aria-label="主要ページへのリンク">
+  <li><a href="{{ "about-fivescup/" | relLangURL }}">FIVESCUPとは？</a></li>
+  <li><a href="{{ "rules/" | relLangURL }}">大会共通ルール</a></li>
+  <li><a href="{{ "posts/" | relLangURL }}">投稿一覧</a></li>
+</ul>
 {{ end }}

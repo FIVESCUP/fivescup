@@ -1,12 +1,30 @@
-{{ define "title" }}{{ .Title }} | {{ .Site.Title }}{{ end }}
+{{ define "title" }}{{ if eq .Section "posts" }}投稿一覧 | {{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}{{ end }}
 {{ define "main" }}
-<article>
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
-  <ul>
-    {{ range .Pages }}
-    <li><a href="{{ .Permalink }}">{{ .Title }}</a> {{ with .Date }}<time>{{ .Format "2006-01-02" }}</time>{{ end }}</li>
-    {{ end }}
-  </ul>
-</article>
+<header class="list-header">
+  <h1>{{ if eq .Section "posts" }}投稿一覧{{ else }}{{ .Title }}{{ end }}</h1>
+</header>
+{{ with .Content }}
+<div class="content content--intro">
+  {{ . }}
+</div>
+{{ end }}
+<ul class="post-list">
+  {{ range .Pages }}
+  <li>
+    <a href="{{ .Permalink }}" class="post-card">
+      {{ with .Param "categories" }}
+      <div class="badges">
+        {{ range first 1 . }}
+        <span class="badge badge--{{ . | lower }}">{{ . }}</span>
+        {{ end }}
+      </div>
+      {{ end }}
+      <span class="post-card__title">{{ .Title }}</span>
+      <span class="post-card__meta">
+        {{ with .Date }}<time datetime="{{ .Format "2006-01-02T15:04:05Z07:00" }}">{{ .Format "2006年1月2日" }}</time>{{ end }}
+      </span>
+    </a>
+  </li>
+  {{ end }}
+</ul>
 {{ end }}

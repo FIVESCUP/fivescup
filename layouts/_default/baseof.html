@@ -6,22 +6,32 @@
   <title>{{ block "title" . }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
   <link rel="canonical" href="{{ .Permalink }}">
+  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
   {{ block "head" . }}{{ end }}
 </head>
 <body>
-  <header>
-    <nav>
-      <a href="{{ "" | relLangURL }}">{{ .Site.Title }}</a>
-      <a href="{{ "about-fivescup/" | relLangURL }}">FIVESCUPとは？</a>
-      <a href="{{ "rules/" | relLangURL }}">大会共通ルール</a>
-      <a href="{{ "posts/" | relLangURL }}">投稿一覧</a>
-    </nav>
+  <header class="site-header">
+    <div class="site-header__inner">
+      <h1 class="site-title">
+        <a href="{{ "" | relLangURL }}">{{ .Site.Title }}</a>
+      </h1>
+      <nav aria-label="メインナビゲーション">
+        <ul class="site-nav">
+          <li><a href="{{ "" | relLangURL }}"{{ if .IsHome }} aria-current="page"{{ end }}>ホーム</a></li>
+          <li><a href="{{ "about-fivescup/" | relLangURL }}"{{ if in .RelPermalink "/about-fivescup/" }} aria-current="page"{{ end }}>FIVESCUPとは？</a></li>
+          <li><a href="{{ "rules/" | relLangURL }}"{{ if in .RelPermalink "/rules/" }} aria-current="page"{{ end }}>大会共通ルール</a></li>
+          <li><a href="{{ "posts/" | relLangURL }}"{{ if eq .Section "posts" }} aria-current="page"{{ end }}>投稿一覧</a></li>
+        </ul>
+      </nav>
+    </div>
   </header>
-  <main>
+  <main class="main">
     {{ block "main" . }}{{ end }}
   </main>
-  <footer>
-    <p>S5Works | FIVESCUP</p>
+  <footer class="site-footer">
+    <div class="site-footer__inner">
+      <p>{{ .Site.Title }}</p>
+    </div>
   </footer>
 </body>
 </html>
