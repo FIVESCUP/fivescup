@@ -1,6 +1,7 @@
 ---
 title: "FIVESCUPとは？"
 date: 2023-03-30
+slug: about-fivescup
 coverImage: "logo_only-scaled.jpg"
 ---
 

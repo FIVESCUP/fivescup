@@ -1,6 +1,7 @@
 ---
 title: "大会共通ルール"
 date: 2023-03-30
+slug: rules
 coverImage: "logo_only-scaled.jpg"
 ---
 
