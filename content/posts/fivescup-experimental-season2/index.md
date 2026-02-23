@@ -23,7 +23,7 @@ coverImage: "logo_only-1-scaled.jpg"
 | SEASON2 MAP POOL | Inferno / Vertigo / Train |
 | 開催日程 | 2025年 02月24日 |
 | 最大チーム数 | 8チーム |
-| ルール | [大会共通ルール](/rules/) |
+| ルール | [大会共通ルール](../../rules/) |
 | 開催目的 | DiscordBOTを使用したイベント進行の半自動化、DEMOの自動公開 |
 
 ### 賞品

@@ -24,7 +24,7 @@ coverImage: "01_Title_1_fixed-scaled.jpg"
 | SEASON10 MAP POOL | Nuke / Mirage/ Inferno |
 | 開催日程 | 2023年 04月02日(日) |
 | 最大チーム数 | 16チーム |
-| ルール | [大会共通ルール](/rules/) |
+| ルール | [大会共通ルール](../../rules/) |
 
 ### 賞品
 

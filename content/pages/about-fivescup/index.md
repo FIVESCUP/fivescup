@@ -6,7 +6,7 @@ coverImage: "logo_only-scaled.jpg"
 
 FIVESCUPは、S5Projectsが開催するCSGOの非営利コミュニティイベントです。  
 日本に多数存在するコミュニティ同士の”壁”を取り払い、国内CSコミュニティの発展を目的に不定期で開催しています。  
-[大会共通ルール](/rules/) 
+[大会共通ルール](../rules/) 
 
 ## S5Worksが運営するイベントについて
 
