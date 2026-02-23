@@ -58,6 +58,22 @@ hugo --minify
 - 不足分は wayback-machine-downloader で取得した HTML を `waybackmachine/old`, `waybackmachine/new` に保存
 - 初回コミットで上記エクスポートをそのまま保存し、その上に Hugo サイト構成とコンテンツ統合を追加
 
+### Phase 8: 元データの削除（任意・確認後）
+
+GitHub Pages で全ページ・リンク・画像に問題がないことを確認したあと、リポジトリから次を削除してリポジトリを軽量化できます。
+
+- `output/` ディレクトリ一式
+- `waybackmachine/` ディレクトリ一式
+- `s5worksfivescup.WordPress.2026-02-23.xml`
+
+削除後も Git 履歴には残るため、必要なら過去のコミットから復元できます。恒久バックアップが必要な場合は、削除前にタグや ZIP で別途アーカイブすることを推奨します。
+
+```bash
+git rm -r output waybackmachine s5worksfivescup.WordPress.2026-02-23.xml
+git commit -m "chore: remove original export data (output, waybackmachine, XML)"
+git push
+```
+
 ## ライセンス
 
 コンテンツの利用については S5Works / FIVESCUP にご確認ください。
