@@ -6,16 +6,24 @@
   <title>{{ block "title" . }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
   <link rel="canonical" href="{{ .Permalink }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
   {{ block "head" . }}{{ end }}
 </head>
 <body>
+  <a class="skip-link" href="#main-content">本文へスキップ</a>
   <header class="site-header">
+    <div class="site-header__accent" aria-hidden="true"></div>
     <div class="site-header__inner">
-      <h1 class="site-title">
-        <a href="{{ "" | relLangURL }}">{{ .Site.Title }}</a>
-      </h1>
-      <nav aria-label="メインナビゲーション">
+      <div class="site-brand">
+        <a href="{{ "" | relLangURL }}" class="site-brand__link">
+          <span class="site-brand__logo">FIVESCUP</span>
+          <span class="site-brand__tagline">S5Works 主催 · CS2 / VALORANT</span>
+        </a>
+      </div>
+      <nav class="site-nav-wrap" aria-label="メインナビゲーション">
         <ul class="site-nav">
           <li><a href="{{ "" | relLangURL }}"{{ if .IsHome }} aria-current="page"{{ end }}>ホーム</a></li>
           <li><a href="{{ "about-fivescup/" | relLangURL }}"{{ if in .RelPermalink "/about-fivescup/" }} aria-current="page"{{ end }}>FIVESCUPとは？</a></li>
@@ -25,12 +33,31 @@
       </nav>
     </div>
   </header>
-  <main class="main">
+  <main id="main-content" class="main" tabindex="-1">
     {{ block "main" . }}{{ end }}
   </main>
   <footer class="site-footer">
     <div class="site-footer__inner">
-      <p>{{ .Site.Title }}</p>
+      <div class="site-footer__top">
+        <div class="site-footer__brand">
+          <span class="site-footer__name">FIVESCUP</span>
+          <span class="site-footer__desc">{{ .Site.Params.description }}</span>
+        </div>
+        <nav class="site-footer__nav" aria-label="フッターナビゲーション">
+          <ul>
+            <li><a href="{{ "" | relLangURL }}">ホーム</a></li>
+            <li><a href="{{ "about-fivescup/" | relLangURL }}">FIVESCUPとは？</a></li>
+            <li><a href="{{ "rules/" | relLangURL }}">大会共通ルール</a></li>
+            <li><a href="{{ "posts/" | relLangURL }}">投稿一覧</a></li>
+          </ul>
+        </nav>
+      </div>
+      <div class="site-footer__bottom">
+        <p class="site-footer__copy">© {{ now.Format "2006" }} S5Works · {{ .Site.Title }}</p>
+        <p class="site-footer__host">
+          <a href="https://github.com/FIVESCUP/fivescup.github.io" rel="noopener noreferrer">GitHub</a>
+        </p>
+      </div>
     </div>
   </footer>
 </body>

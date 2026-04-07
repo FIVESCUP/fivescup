@@ -13,6 +13,7 @@ Thumbs.db
 
 # Hugo
 public/
+public_test_out/
 resources/_gen/
 .hugo_build.lock
 

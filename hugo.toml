@@ -4,6 +4,8 @@
 baseURL = 'https://fivescup.github.io/'
 languageCode = 'ja'
 title = 'S5Works | FIVESCUP'
+# 開催予定の記事（日付が「未来」）も静的生成に含める
+buildFuture = true
 
 [markup]
   [markup.goldmark]
