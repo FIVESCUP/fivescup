@@ -1,6 +1,5 @@
 ---
-
-## title: "FIVESCUP EXPERIMENTAL: SEASON3"
+title: "FIVESCUP EXPERIMENTAL: SEASON3"
 date: 2026-04-18
 categories: 
   - "experimental"
@@ -8,6 +7,7 @@ tags:
   - "event"
   - "experimental"
 coverImage: "logo_only-1-scaled.jpg"
+---
 
 2026年4月19日に、**FIVESCUP EXPERIMENTAL SEASON3**を開催いたします。参加・当日の案内は **[FIVESCUP Discord](https://discord.gg/cEdTyhVRyq)** で行います。
 
