@@ -1,5 +1,6 @@
 ---
-title: "FIVESCUP EXPERIMENTAL: SEASON3"
+
+## title: "FIVESCUP EXPERIMENTAL: SEASON3"
 date: 2026-04-18
 categories: 
   - "experimental"
@@ -7,7 +8,6 @@ tags:
   - "event"
   - "experimental"
 coverImage: "logo_only-1-scaled.jpg"
----
 
 2026年4月19日に、**FIVESCUP EXPERIMENTAL SEASON3**を開催いたします。参加・当日の案内は **[FIVESCUP Discord](https://discord.gg/cEdTyhVRyq)** で行います。
 
@@ -16,15 +16,17 @@ coverImage: "logo_only-1-scaled.jpg"
 
 ## FIVESCUP EXPERIMENTAL: SEASON3
 
-| イベント名 | FIVESCUP EXPERIMENTAL: SEASON3 |
-| --- | --- |
-| 対戦形式 | Wingman（2v2）シングルエリミネーショントーナメント |
-| フォーマット | Best of 1 / オンライン |
-| SEASON3 MAP POOL | Inferno / Overpass / Nuke |
-| 開催日程 | 2026年 04月19日 |
-| 最大チーム数 | 16チーム |
-| ルール | [大会共通ルール](../../rules/) |
-| 開催目的 | DiscordBOTを使用したイベント進行の完全自動化 |
+
+| イベント名            | FIVESCUP EXPERIMENTAL: SEASON3 |
+| ---------------- | ------------------------------ |
+| 対戦形式             | Wingman（2v2）シングルエリミネーショントーナメント |
+| フォーマット           | Best of 1 / オンライン              |
+| SEASON3 MAP POOL | Inferno / Overpass / Nuke      |
+| 開催日程             | 2026年 04月19日                   |
+| 最大チーム数           | 16チーム                          |
+| ルール              | [大会共通ルール](../../rules/)        |
+| 開催目的             | DiscordBOTを使用したイベント進行の完全自動化    |
+
 
 ### 賞品
 
@@ -48,29 +50,33 @@ N/A
 
 #### 技術スタック
 
-| サーバーサイド | TypeScript + Hono |
-| --- | --- |
+
+| サーバーサイド | TypeScript + Hono            |
+| ------- | ---------------------------- |
 | フロントエンド | Discord（Webhook / WebSocket） |
-| インフラ | Cloudflare Workers |
-| データベース | Cloudflare D1 |
-| 試合サーバー | dathost + MatchZy |
-| ソースコード | 近日公開予定 |
+| インフラ    | Cloudflare Workers           |
+| データベース  | Cloudflare D1                |
+| 試合サーバー  | dathost + MatchZy            |
+| ソースコード  | 近日公開予定                       |
+
 
 ### FIVESCUPとは？
 
-<figure>
 
-| 18:00 | チェックイン開始 |
-| --- | --- |
-| 18:55 | チェックイン締切・トーナメント発表 |
-| 19:00 | 試合開始 |
 
-<figcaption>
+
+| 14:00 | チェックイン開始          |
+| ----- | ----------------- |
+| 14:55 | チェックイン締切・トーナメント発表 |
+| 15:00 | 試合開始              |
+
+
+
 
 試合間の休憩時間は最大15分とし、両チームの準備が整い次第Discord上で試合を開始してください。
 
-</figcaption>
 
-</figure>
+
+
 
 **FIVESCUP** はS5 Worksが運営・主催する **Counter-Strike** シリーズ のオンライン大会です。コミュニティを重視した大会を目指しています。
