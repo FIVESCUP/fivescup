@@ -6,9 +6,12 @@ categories:
 tags:
   - "challenge"
   - "event"
+coverImage: "season12-banner.png"
 ---
 
 **2026年4月18日（土）** に **FIVESCUP CHALLENGE SEASON12** を開催します。参加・当日の案内は **[FIVESCUP Discord](https://discord.gg/cEdTyhVRyq)** で行います。
+
+![](images/season12-banner.png)
 
 **FIVESCUP CHALLENGE** は、7つある競技マップを少数に絞り、そのマップの習熟度を競うことをコンセプトとした 5vs5 の大会です。
 
@@ -23,6 +26,8 @@ tags:
 | 開催日程 | **2026年4月18日（土）** |
 | 最大チーム数 | 16チーム（変更の場合はお知らせします） |
 | ルール | [大会共通ルール](../../rules/) |
+
+![](images/season12-map-pool-banner.png)
 
 ### 賞品
 
@@ -52,6 +57,14 @@ tags:
 | 21:00 | 決勝 |
 
 試合間のインターバルは、両チームの合意があればスキップできるものとします。
+
+### スタッフ
+
+| 役割 | 担当 |
+| --- | --- |
+| Director/Developer | Flowing（X: [@flowingspdg](https://x.com/flowingspdg)） |
+| Server Sponsor | execut1ve（X: [@execut1ve](https://x.com/execut1ve)） |
+| Design | GuleruuN（X: [@guleruun](https://x.com/guleruun)） |
 
 ### FIVESCUPとは？
 
